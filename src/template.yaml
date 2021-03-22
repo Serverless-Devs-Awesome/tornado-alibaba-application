@@ -1,5 +1,5 @@
 TornadoComponent:
-  Component: tornado
+  Component: tornado-alibaba-component
   Provider: alibaba
   Extends:
     deploy:
