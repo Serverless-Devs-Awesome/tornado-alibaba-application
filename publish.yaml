@@ -2,7 +2,7 @@ Type: Application
 Name: tornado
 Version: 0.0.7
 Provider:
-  - Alibaba
+  - 阿里云
 Description: 快速部署一个Tornado框架到阿里云函数计算
 HomePage: https://serverless.aliyun.com/
 Tags:
